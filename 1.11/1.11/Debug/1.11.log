@@ -1,0 +1,4 @@
+﻿  1-11.c
+c:\users\79189\source\repos\1.11\1.11\1-11.c(15): error C2059: 语法错误:“类型”
+c:\users\79189\source\repos\1.11\1.11\1-11.c(16): error C2065: “i”: 未声明的标识符
+c:\users\79189\source\repos\1.11\1.11\1-11.c(19): error C2065: “i”: 未声明的标识符
